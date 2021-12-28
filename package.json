@@ -1,7 +1,7 @@
 {
   "name": "file-upload",
   "version": "1.0.0",
-  "description": "",
+  "description": "This Demo was uploading image and video file using multer middleware.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,5 +12,13 @@
   "dependencies": {
     "express": "^4.17.1",
     "multer": "^1.4.2"
-  }
+  },
+  "repository": {
+    "type": "git", 
+    "url": "git+https://github.com/happy-bhesdadiya/file-upload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/happy-bhesdadiya/file-upload/issues"
+  },
+  "homepage": "https://github.com/happy-bhesdadiya/file-upload#readme"
 }

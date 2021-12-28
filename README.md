@@ -25,8 +25,3 @@ Runs the app in the development mode.
 - Change kay name as a images and select multiple images.`(Select only 4 images)`
 - Send the request
 
-## Calling the video upload API
-- The process will be same as the image upload
-- Just change URL [localhost:3000/uploadVideo](http://localhost:3000/uploadVideo)
-- Change kay name as a video and select video file `(file will be only mp4|mpeg-4 and size 10MB Only)`
-- Send the request
